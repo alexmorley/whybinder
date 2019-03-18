@@ -1,5 +1,10 @@
 question_tag,number_agree,number_disagree
-heard_of_binder,12,0
-used_binder,4,8
-share_binder,3,9
-understand_binder,6,6
+use_windows,0,0
+use_mac,0,0
+use_linux,0,0
+heard_of_binder,0,0
+used_binder,0,0
+share_binder,0,0
+understand_binder,0,0
+computer_worked,0,0
+yesterday_worked,0,0
